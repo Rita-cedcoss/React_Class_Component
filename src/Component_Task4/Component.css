@@ -8,7 +8,7 @@
 #leftComponent
 { 
     
-    height: 270px;
+    height: 480px;
     width: 27%;
     margin: 2%;
     padding: 3%;
@@ -21,7 +21,7 @@
 }
 #MiddleComponent
 {
-    height: 270px;
+    height: 480px;
     width: 27%;
     margin: 2%;
     padding: 3%;
@@ -34,7 +34,7 @@
 }
 #rightComponent
 { 
-    height: 270px;
+    height: 480px;
     width: 27%;
     margin: 2%;
     padding: 3%;
@@ -55,3 +55,9 @@
     font-size: 16px;
     border: 2px solid #8fe9dd;
 }
+img 
+{
+    height: 45%;
+    width: 97%;
+}
+    
