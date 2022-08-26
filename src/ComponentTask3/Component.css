@@ -1,0 +1,60 @@
+#outer{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    line-height: 94px;
+    color: white;
+}
+#navbar
+{
+  height:100px;
+  width: 96%;
+  margin: 2%;
+  background-color: rgb(37, 34, 192);
+}
+#mainComponent
+{
+    height:300px;
+    width: 100%;
+    display: flex;
+}
+#left
+{
+height:100%;
+width: 25%;
+}
+#midComponent
+{
+    height: 79%;
+    width: 42%;
+    margin: 2%;
+    background-color: rgb(37, 34, 192);
+}
+#rightComponent
+{
+    height:100%;
+    width: 25%;
+    
+}
+#rightFirst_Component
+{
+    height: 35%;
+    width: 98%;
+    margin: 9%;
+    background-color: rgb(37, 34, 192);
+}
+#leftFirst_Component
+{
+    height: 35%;
+    width: 86%;
+    margin: 8%;
+    background-color: rgb(37, 34, 192);
+}
+#leftSecond_Component
+{
+    height: 38%;
+    width: 86%;
+    margin: 6%;
+    background-color: rgb(37, 34, 192);
+}
+
