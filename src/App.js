@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import HelloWorld from './component/HelloWorld';
+import ComponentTask21 from './component/ComponentTask21';
+import ComponentTask22 from './component/ComponentTask22';
 function App() {
-  return (
- <HelloWorld></HelloWorld>
+  return (<>
+  <ComponentTask21></ComponentTask21>
+  <ComponentTask22></ComponentTask22>
+ </>
   );
 }
-
 export default App;
