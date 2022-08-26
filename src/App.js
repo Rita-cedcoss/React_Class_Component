@@ -1,8 +1,8 @@
 import './App.css';
-import ComponentOuter from './ComponentTask3/ComponentOuter';
+import OuterComponent from './Component_Task4/OuterComponent';
 function App() {
   return (<>
-  <ComponentOuter></ComponentOuter>
+    <OuterComponent></OuterComponent>
  </>
   );
 }
