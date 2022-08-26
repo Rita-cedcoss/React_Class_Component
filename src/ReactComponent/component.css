@@ -1,0 +1,48 @@
+#outer
+{
+    height:auto;
+    width: 98%;
+    margin: 1%;
+    border:2px solid rgb(230, 93, 93);
+}
+#nav
+{
+    height: 50px;
+    width: 96%;
+    border:2px solid rgb(230, 93, 93);
+    margin: 2%;
+}
+#main
+{
+    height:300px;
+    width: 100%;
+    display: flex;
+}
+.left
+{
+    height:85%;
+    width: 56%;
+    margin:2%;
+    border:2px solid rgb(230, 93, 93);
+}
+.leftComponent1
+{
+   height: 36%;
+   width: 86%;
+   border:2px solid rgb(230, 93, 93);
+   margin: 2%;
+   margin-left: 6%;
+}
+.RightComponent1
+{ height:85%;
+    width: 36%;
+    margin:2%;
+    border:2px solid rgb(230, 93, 93);
+}
+#rightInner
+{
+    height: 72%;
+    width: 86%;
+    margin: 6%;
+    border:2px solid rgb(230, 93, 93);
+}
